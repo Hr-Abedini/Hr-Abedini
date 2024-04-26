@@ -2,11 +2,11 @@
 
 
 
-![ readme stats](https://github-readme-stats.vercel.app/api?username=hr-abedini&show_icons=true&theme=transparent&version=1.1)
+![ readme stats](https://github-readme-stats.vercel.app/api?username=hr-abedini&show_icons=true&theme=transparent&version=1.2)
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hr-abedini&layout=donut-vertical)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hr-abedini&layout=donut-vertical)
 
 <!--
 (https://github.com/hr-abedini/github-readme-stats)

@@ -2,7 +2,7 @@
 
 
 
-https://github-readme-stats.vercel.app/api?username=hr-abedini&show_icons=true&theme=radical
+
 
 <!--
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hr-abedini&repo=github-readme-stats)]

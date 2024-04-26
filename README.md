@@ -12,14 +12,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hr-abedini&layout=donut)](https://github.com/hr-abedini/github-readme-stats)
 
-<!--
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hr-abedini&repo=github-readme-stats)]
-
-<!--
-(https://github.com/Hr-Abedini/github-readme-stats)
-
-https://github-readme-stats.vercel.app/api?username=yousefvafaei&show_icons=true&theme=radical
--->
 
 <!--
 **Hr-Abedini/Hr-Abedini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

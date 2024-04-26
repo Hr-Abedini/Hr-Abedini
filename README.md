@@ -10,7 +10,7 @@
 
 
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hr-abedini&layout=donut)](https://github.com/hr-abedini/github-readme-stats)
 
 <!--
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hr-abedini&repo=github-readme-stats)]

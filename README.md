@@ -2,9 +2,6 @@
 
 
 
-![ Readme Card ](https://github-readme-stats.vercel.app/api?username=hr-abedini&show_icons=true&theme=cobalt)
-
-
 [![ GitHub stats](https://github-readme-stats.vercel.app/api?username=hr-abedini&show_icons=true&theme=transparent&version=1)](https://github.com/hr-abedini/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hr-abedini&layout=donut-vertical)](https://github.com/hr-abedini/github-readme-stats)

@@ -2,7 +2,7 @@
 
 
 
-![ readme stats](https://github-readme-stats.vercel.app/api?username=hr-abedini&show_icons=true&theme=transparent&version=1.2)
+![ readme stats](https://github-readme-stats.vercel.app/api?username=hr-abedini&show_icons=true&theme=transparent&version=1.3)
 
 
 

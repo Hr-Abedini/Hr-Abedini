@@ -10,7 +10,7 @@
 - **فریم‌ورک‌ها**: Django, React
 
 ## 📈 آمار من
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hr-abedini&show_icons=true&theme=radical)
 
 ## 🛠 پروژه‌های برجسته
 - **[پروژه ۱](لینک ریپو)**: توضیح مختصر پروژه.

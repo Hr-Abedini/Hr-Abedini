@@ -1,7 +1,8 @@
 ## Hi there 👋
 
 
-![hr-abedini's GitHub stats](https://github-readme-stats.vercel.app/api?username=hr-abedini)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hr-abedini&show_icons=true&theme=radical)
+
 
 <!--
 

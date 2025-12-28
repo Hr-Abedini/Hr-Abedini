@@ -18,6 +18,10 @@
 ## 📈 آمار من
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hr-abedini&show_icons=true&theme=radical)
 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hr-abedini)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ## 🛠 پروژه‌های برجسته
 - **[پروژه ۱](لینک ریپو)**: توضیح مختصر پروژه.
 - **[پروژه ۲](لینک ریپو)**: توضیح مختصر پروژه.

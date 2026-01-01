@@ -1,23 +1,16 @@
 ## Hi there 👋
 
-![GitHub Streak](https://streak-stats.demolab.com?user=hr-abedini)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hr-abedini&show_icons=true&theme=radical)
 
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hr-abedini&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hr-abedini&layout=compact)
-[![Trophy](https://github-profile-trophy.vercel.app/?username=hr-abedini&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hr-abedini&theme=radical)
 ## 📫 با من در ارتباط باشید
 
 - [وبلاگ](https://hr-abedini.github.io)
 - [لینکدین](https://www.linkedin.com/in/hamidreza-abedini-5500a9365/)
 
 ---
-![APEX](https://img.shields.io/badge/Oracle-APEX-orange)
-![Oracle](https://img.shields.io/badge/Oracle-PL/SQL-red)
-![C#](https://img.shields.io/badge/C%23-.NET-blueviolet)
-![TSQL](https://img.shields.io/badge/SQL%20Server-SQL-gold)
+[APEX](https://img.shields.io/badge/Oracle-APEX-orange)
+[Oracle](https://img.shields.io/badge/Oracle-PL/SQL-red)
+[C#](https://img.shields.io/badge/C%23-.NET-blueviolet)
+[TSQL](https://img.shields.io/badge/SQL%20Server-SQL-gold)
 
 
 
@@ -27,6 +20,15 @@
 
 
 <!--
+
+![GitHub Streak](https://streak-stats.demolab.com?user=hr-abedini)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hr-abedini&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hr-abedini&layout=compact)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=hr-abedini&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hr-abedini&theme=radical)
+
+
+
 ![Followers](https://img.shields.io/github/followers/hr-abedini)
 ![Stars](https://img.shields.io/github/stars/hr-abedini?affiliations=OWNER)
 

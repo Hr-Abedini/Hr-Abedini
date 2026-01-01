@@ -1,8 +1,6 @@
 ## Hi there 👋
 
-<a href="https://www.linkedin.com/in/hamidreza-abedini-5500a9365/" target="_blank" rel="noopener noreferrer me" title="Linkedin">
- test <i class="fa fa-linkedin-square" style="font-size:48px;color:blue"></i>
-</a>
+[![linkedin](https://img.shields.io/badge/Oracle-APEX-orange)]([https://hr-abedini.github.io](https://www.linkedin.com/in/hamidreza-abedini-5500a9365/))
 ## 📫 با من در ارتباط باشید
 
 - [وبلاگ](https://hr-abedini.github.io)

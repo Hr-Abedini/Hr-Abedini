@@ -1,8 +1,10 @@
 ## Hi there 👋
 
+![GitHub Streak](https://streak-stats.demolab.com?user=hr-abedini)
+![Trophies](https://github-profile-trophy.vercel.app/?hr-abedini=YOUR_USERNAME&column=6)
 
-![Metrics](./github-metrics.svg)
-
+![Followers](https://img.shields.io/github/followers/hr-abedini)
+![Stars](https://img.shields.io/github/stars/hr-abedini?affiliations=OWNER)
 
 ## 📫 با من در ارتباط باشید
 

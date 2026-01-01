@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![linkedin](https://img.shields.io/badge/Linked-in-blue)](https://www.linkedin.com/in/hamidreza-abedini-5500a9365/)
+[![linkedin](https://img.shields.io/badge/Linked--in-blue)](https://www.linkedin.com/in/hamidreza-abedini-5500a9365/)
 ## 📫 با من در ارتباط باشید
 
 - [وبلاگ](https://hr-abedini.github.io)

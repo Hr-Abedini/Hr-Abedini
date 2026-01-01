@@ -8,6 +8,18 @@
 - [وب‌سایت](https://hr-abedini.github.io/)
 - [لینکدین](https://www.linkedin.com/in/hamidreza-abedini-5500a9365/)
 
+
+![Oracle](https://img.shields.io/badge/Oracle-DB-red)
+![APEX](https://img.shields.io/badge/Oracle%20APEX-24.1-blue)
+
+
+
+
+
+
+
+
+
 <!--
 
 

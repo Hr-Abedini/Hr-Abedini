@@ -11,7 +11,7 @@
 
 ![Oracle](https://img.shields.io/badge/Oracle-DB-red)
 ![APEX](https://img.shields.io/badge/Oracle%20APEX-24.1-blue)
-
+![C#](https://img.shields.io/badge/C#-green)
 
 
 

@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hr-abedini&show_icons=true&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com?user=hr-abedini)](https://git.io/streak-stats)
 
 
 <!--

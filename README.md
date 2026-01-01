@@ -5,8 +5,8 @@
 
 
 ## 📫 با من در ارتباط باشید
-- [وب‌سایت]([hr-abedini.github.io](https://hr-abedini.github.io/))
--  [لینکدین](https://www.linkedin.com/in/hamidreza-abedini-5500a9365/)
+- [وب‌سایت](https://hr-abedini.github.io/)
+- [لینکدین](https://www.linkedin.com/in/hamidreza-abedini-5500a9365/)
 
 <!--
 

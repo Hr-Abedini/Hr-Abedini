@@ -7,10 +7,10 @@
 - [لینکدین](https://www.linkedin.com/in/hamidreza-abedini-5500a9365/)
 
 ---
-[![APEX](https://img.shields.io/badge/Oracle-APEX-orange)](hr-abedini.github.io)
-[![Oracle](https://img.shields.io/badge/Oracle-PL/SQL-red)](hr-abedini.github.io)
-[![C#](https://img.shields.io/badge/C%23-.NET-blueviolet)](hr-abedini.github.io)
-[![TSQL](https://img.shields.io/badge/SQL%20Server-SQL-gold)](hr-abedini.github.io)
+[![APEX](https://img.shields.io/badge/Oracle-APEX-orange)](https://hr-abedini.github.io)
+[![Oracle](https://img.shields.io/badge/Oracle-PL/SQL-red)](https://hr-abedini.github.io)
+[![C#](https://img.shields.io/badge/C%23-.NET-blueviolet)](https://hr-abedini.github.io)
+[![TSQL](https://img.shields.io/badge/SQL%20Server-SQL-gold)](https://hr-abedini.github.io)
 
 
 

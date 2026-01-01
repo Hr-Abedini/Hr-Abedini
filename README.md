@@ -9,7 +9,7 @@
 - [وبلاگ](https://hr-abedini.github.io)
 - [لینکدین](https://www.linkedin.com/in/hamidreza-abedini-5500a9365/)
 
-
+---
 ![APEX](https://img.shields.io/badge/Oracle-APEX-orange)
 ![Oracle](https://img.shields.io/badge/Oracle-PL/SQL-red)
 ![C#](https://img.shields.io/badge/C%23-.NET-blueviolet)

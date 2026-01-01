@@ -1,17 +1,14 @@
 ## Hi there 👋
 
-[![linkedin](https://img.shields.io/badge/Linked--in-blue)](https://www.linkedin.com/in/hamidreza-abedini-5500a9365/)
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/YourUsername)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YourUsername)
-[![RSS](https://img.shields.io/badge/Blog-FF6600?style=flat-square&logo=rss&logoColor=white)](https://yourblog.com)
 
 ## 📫 با من در ارتباط باشید
 
-- [وبلاگ](https://hr-abedini.github.io)
-- [لینکدین](https://www.linkedin.com/in/hamidreza-abedini-5500a9365/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamidreza-abedini-5500a9365/)
+[![RSS](https://img.shields.io/badge/Blog-FF6600?style=flat-square&logo=rss&logoColor=white)](https://hr-abedini.github.io)
 
----
+
+
+
 [![APEX](https://img.shields.io/badge/Oracle-APEX-orange)](https://hr-abedini.github.io)
 [![Oracle](https://img.shields.io/badge/Oracle-PL/SQL-red)](https://hr-abedini.github.io)
 [![C#](https://img.shields.io/badge/.NET-C%23-blueviolet)](https://hr-abedini.github.io)
@@ -38,6 +35,7 @@
 ![Followers](https://img.shields.io/github/followers/hr-abedini)
 ![Stars](https://img.shields.io/github/stars/hr-abedini?affiliations=OWNER)
 
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/YourUsername)
 # 👋 سلام، من [اسم شما] هستم!
 
 توسعه‌دهنده‌ای با علاقه به [تکنولوژی/حوزه کاری، مثل پایتون یا وب]. عاشق حل مسائل و ساخت پروژه‌های متن‌باز.

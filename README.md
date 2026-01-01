@@ -8,13 +8,12 @@
 - [وب‌سایت](https://hr-abedini.github.io/)
 - [لینکدین](https://www.linkedin.com/in/hamidreza-abedini-5500a9365/)
 
-
+![APEX](https://img.shields.io/badge/Oracle-APEX-orange)
 ![Oracle](https://img.shields.io/badge/Oracle-PL/SQL-red)
-![APEX](https://img.shields.io/badge/Oracle%20APEX-24.1-blue)
+
 ![C#](https://img.shields.io/badge/C%23-.NET-blueviolet)
-![PLSQL](https://img.shields.io/badge/Oracle-PL%2FSQL-red)
-![TSQL](https://img.shields.io/badge/SQL%20Server-T--SQL-cc2927)
-![Python](https://img.shields.io/badge/Python-Backend-3776AB)
+![TSQL](https://img.shields.io/badge/SQL%20Server-SQL-yellow)
+
 
 
 

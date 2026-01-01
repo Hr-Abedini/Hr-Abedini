@@ -1,6 +1,9 @@
 ## Hi there 👋
 
-
+<a href="https://www.linkedin.com/in/hamidreza-abedini-5500a9365/" target="_blank" rel="noopener noreferrer me" title="Linkedin">
+<i class="fa fa-linkedin-square" style="font-size:48px;color:blue"></i>
+ 
+</a>
 ## 📫 با من در ارتباط باشید
 
 - [وبلاگ](https://hr-abedini.github.io)
@@ -15,10 +18,7 @@
 
 
 
-<a href="https://www.linkedin.com/in/hamidreza-abedini-5500a9365/" target="_blank" rel="noopener noreferrer me" title="Linkedin">
-<i class="fa fa-linkedin-square" style="font-size:48px;color:blue"></i>
- 
-</a>
+
 
 
 

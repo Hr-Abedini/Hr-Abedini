@@ -1,9 +1,12 @@
 ## Hi there 👋
 
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=hr-abedini)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Streak](https://streak-stats.demolab.com?user=hr-abedini)
 
 
+## 📫 با من در ارتباط باشید
+- [وب‌سایت](hr-abedini.github.io)
+-  [لینکدین](https://www.linkedin.com/in/hamidreza-abedini-5500a9365/)
 
 <!--
 
@@ -27,10 +30,6 @@
 - **[پروژه ۱](لینک ریپو)**: توضیح مختصر پروژه.
 - **[پروژه ۲](لینک ریپو)**: توضیح مختصر پروژه.
 
-## 📫 با من در ارتباط باشید
-- [لینکدین](لینک)
-- [ایمیل](mailto:your-email@example.com)
-- [وب‌سایت](لینک)
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 

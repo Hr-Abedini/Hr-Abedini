@@ -6,10 +6,7 @@
 
 ## 📫 با من در ارتباط باشید
 <a href="https://hr-abedini.github.io" target="_blank" rel="noopener noreferrer">
-    Website
-</a>
-<a href="https://example.com" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Website-Visit-blue">
+  <img src="https://img.shields.io/badge/سایت من-مشاهده-blue">
 </a>
 
 - [لینکدین](https://www.linkedin.com/in/hamidreza-abedini-5500a9365/)

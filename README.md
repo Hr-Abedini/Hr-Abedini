@@ -1,11 +1,13 @@
 ## Hi there 👋
 
-![GitHub Streak](https://streak-stats.demolab.com?user=hr-abedini)
-
-![Trophies](https://github-profile-trophy.vercel.app/?hr-abedini=YOUR_USERNAME&column=6)
-
+![GitHub Streak](https://streak-stats.demolab.com?user=hr-abedini)  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hr-abedini&show_icons=true&theme=radical)
 
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hr-abedini&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hr-abedini&layout=compact)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=hr-abedini&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hr-abedini&theme=radical)
 ## 📫 با من در ارتباط باشید
 
 - [وبلاگ](https://hr-abedini.github.io)

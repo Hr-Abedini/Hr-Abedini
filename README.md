@@ -5,11 +5,10 @@
 
 
 ## 📫 با من در ارتباط باشید
-<a href="https://hr-abedini.github.io" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/سایت من-مشاهده-blue">
-</a>
 
+- [وبلاگ](https://hr-abedini.github.io)
 - [لینکدین](https://www.linkedin.com/in/hamidreza-abedini-5500a9365/)
+
 
 ![APEX](https://img.shields.io/badge/Oracle-APEX-orange)
 ![Oracle](https://img.shields.io/badge/Oracle-PL/SQL-red)

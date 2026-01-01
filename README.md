@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-![GitHub Streak](https://streak-stats.demolab.com?user=hr-abedini)
+![Metrics](./github-metrics.svg)
 
 
 ## 📫 با من در ارتباط باشید

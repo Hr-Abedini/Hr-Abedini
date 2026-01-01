@@ -11,4 +11,4 @@ jobs:
       - uses: Ashutosh00710/github-readme-activity-graph@v2
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          username: YOUR_USERNAME
+          username: hr-abedini

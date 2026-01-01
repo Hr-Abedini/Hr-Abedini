@@ -8,8 +8,8 @@
 ---
 
 
-[![APEX](https://img.shields.io/badge/Oracle-APEX-orange)](#)
-[![Oracle](https://img.shields.io/badge/Oracle-PL/SQL-red)](#)
+[![APEX](https://img.shields.io/badge/Oracle-APEX-red)](#)
+[![Oracle](https://img.shields.io/badge/Oracle-PL/SQL-f8462e)](#)
 [![C#](https://img.shields.io/badge/.NET-C%23-blueviolet)](#)
 [![VB.NET](https://img.shields.io/badge/.NET-VB.NET-blueviolet)](#)
 [![TSQL](https://img.shields.io/badge/SQL%20Server-T--SQL-gold)](#)

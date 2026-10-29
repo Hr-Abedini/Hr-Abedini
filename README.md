@@ -6,6 +6,7 @@
 [![RSS](https://img.shields.io/badge/Blog-FF6600?style=flat-square&logo=rss&logoColor=white)](https://hr-abedini.github.io)
 سایت من:
 https://hr-abedini.github.io/
+
 https://abedinitips.ir/
 
 ---

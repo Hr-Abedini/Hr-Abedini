@@ -3,13 +3,11 @@
 
 ## 📫 ارتباط با من
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamidreza-abedini-5500a9365/)
-[![RSS](https://img.shields.io/badge/Blog-FF6600?style=flat-square&logo=rss&logoColor=white)](https://hr-abedini.github.io)
 
-[![RSS](https://img.shields.io/badge/Blog-FF6600?style=flat-square&logo=rss&logoColor=white)](https://hr-abedini.github.io)
 https://hr-abedini.github.io/
 
 https://abedinitips.ir/
-![Static Badge](https://img.shields.io/badge/%D8%B3%D8%A7%DB%8C%D8%AA?style=flat&color=yellow&link=https%3A%2F%2Fabedinitips.ir%2F)
+
 
 ---
 

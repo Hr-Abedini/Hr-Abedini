@@ -8,8 +8,8 @@ https://hr-abedini.github.io/
 
 https://abedinitips.ir/
 
-[![My Website - Github](https://img.shields.io/badge/My_Website-Github-2ea44f?style=flat)](https://hr-abedini.github.io/)
-[![My Website - ir](https://img.shields.io/badge/My_Website-ir-blue?style=flat)](https://abedinitips.ir/)
+[![My Website - Github](https://img.shields.io/badge/My_Website-Github-2ea44f)](https://hr-abedini.github.io/)
+[![My Website - ir](https://img.shields.io/badge/My_Website-IR-blue?style=flat)](https://abedinitips.ir/)
 ---
 
 

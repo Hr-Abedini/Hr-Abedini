@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-## 📫 
+## 📫 ارتباط با من
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamidreza-abedini-5500a9365/)
 [![RSS](https://img.shields.io/badge/Blog-FF6600?style=flat-square&logo=rss&logoColor=white)](https://hr-abedini.github.io)
 

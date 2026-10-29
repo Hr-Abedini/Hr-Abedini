@@ -2,7 +2,7 @@
 
 
 ## 📫 ارتباط با من
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamidreza-abedini-5500a9365/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=googlechrome&logoColor=white)](https://www.linkedin.com/in/hamidreza-abedini-5500a9365/)
 
 https://hr-abedini.github.io/
 

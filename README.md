@@ -8,7 +8,9 @@ https://hr-abedini.github.io/
 
 https://abedinitips.ir/
 
+![Personal Website](https://img.shields.io/badge/Personal-Website-2ea44f?style=flat)
 
+![Technical Notes](https://img.shields.io/badge/Technical-Notes-blue?style=flat)
 ---
 
 
